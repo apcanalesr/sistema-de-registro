@@ -17,12 +17,12 @@ is_delayed = 0  en caso contrario
 ---
 
 ## 📂 Estructura del proyecto
+```
 
-.
 01_eda.ipynb                 # Análisis exploratorio
 02_feature_engineering.ipynb # Validación de variables y pipeline
 03_train_model.ipynb         # Entrenamiento y exportación del modelo
----
+```
 
 ## 🔍 Dataset
 
@@ -37,7 +37,7 @@ La variable is_delayed convierte el problema en clasificación binaria supervisa
 
 ---
 
-## 🧠 Features utilizadas (MVP)
+## 🧠 Características utilizadas (MVP)
 
 | Tipo        | Variables |
 |------------|-----------|
@@ -71,7 +71,7 @@ Pipeline completo:
 - LogisticRegression(max_iter=1000)
 
 ---
-
+## ¿Por qué utilizar este Modelo?
 ## 📌 Fundamentación del modelo
 
 ### Clasificación binaria
