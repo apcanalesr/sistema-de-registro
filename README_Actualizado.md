@@ -19,15 +19,9 @@ is_delayed = 0  en caso contrario
 ## 📂 Estructura del proyecto
 
 .
-├── 01_eda.ipynb                 # Análisis exploratorio
-├── 02_feature_engineering.ipynb # Validación de variables y pipeline
-├── 03_train_model.ipynb         # Entrenamiento y exportación del modelo
-├── src/
-│   └── preprocessing.py        # build_dataset()
-├── ds/
-│   └── artifacts/
-│       └── model.joblib        # Pipeline entrenado
-
+01_eda.ipynb                 # Análisis exploratorio
+02_feature_engineering.ipynb # Validación de variables y pipeline
+03_train_model.ipynb         # Entrenamiento y exportación del modelo
 ---
 
 ## 🔍 Dataset
